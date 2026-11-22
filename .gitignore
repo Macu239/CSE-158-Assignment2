@@ -1,0 +1,16 @@
+# Raw Steam data (~600 MB). Download from https://cseweb.ucsd.edu/~jmcauley/datasets.html#steam_data
+data/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
